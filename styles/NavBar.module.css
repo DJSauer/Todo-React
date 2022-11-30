@@ -1,0 +1,13 @@
+.nav {
+  background-color: white;
+  width: 200px;
+  max-width: 300px;
+  margin: 0;
+}
+
+.nav a {
+    margin: 20px;
+    color: rgba(255, 82, 73, 0.822);
+    height: auto;
+    width: 200px;
+}

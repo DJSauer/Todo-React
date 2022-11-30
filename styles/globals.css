@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin&display=swap');
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Cabin', sans-serif;
+}
+
+button{
+  font-family: 'Cabin', sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}

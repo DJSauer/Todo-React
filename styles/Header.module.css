@@ -1,0 +1,17 @@
+.header{
+    height: 29px;
+    max-height: 29px;
+    background-color: white;
+}
+
+.header Title{
+    position: relative;
+    float: left;
+}
+
+.header Nav{
+    position: relative;
+    float: right;
+    margin-top: -29px;
+}
+
